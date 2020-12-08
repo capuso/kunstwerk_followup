@@ -71,3 +71,8 @@ beginShape();
 //Farbe der Vier- und Dreiecke:
  fill(random(255), random(255), random(255), 80);
 }
+
+//bei Mausklick nachzeichnung der Konturen. bei weiterem Mausklick ändert sich die Farbe der Konturen
+void mousePressed(){
+  stroke(random(300), random(300), random(300), 300);
+}
