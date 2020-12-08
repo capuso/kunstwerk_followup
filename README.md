@@ -1,1 +1,1 @@
-Dieses Processing-Programm wurde in Rahmen des Moduls MDRTM15 an der HKB geschrieben. Viel vergnügen.
+Dieses Processing-Programm wurde in Rahmen des Moduls MDRTM15 geschrieben. Viel vergnügen.
